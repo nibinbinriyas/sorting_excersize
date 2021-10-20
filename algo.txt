@@ -1,0 +1,8 @@
+Using sort() function in python we can easily sort an list
+
+create a list named arr
+call algorithm function with arr
+in algorithm arr is sorted using sort() inbuilt function
+returned the sorted list to main
+shown the result
+commit and push to git
